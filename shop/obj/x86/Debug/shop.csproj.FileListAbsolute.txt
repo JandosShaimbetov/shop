@@ -1,0 +1,126 @@
+C:\Users\sunshine dude\source\repos\shop\shop\obj\x86\Debug\shop.csproj.AssemblyReference.cache
+C:\Users\sunshine dude\source\repos\shop\shop\obj\x86\Debug\App.g.i.cs
+C:\Users\sunshine dude\source\repos\shop\shop\obj\x86\Debug\App.g.cs
+C:\Users\sunshine dude\source\repos\shop\shop\obj\x86\Debug\Views\MainPage.g.i.cs
+C:\Users\sunshine dude\source\repos\shop\shop\obj\x86\Debug\Views\MainPage.g.cs
+C:\Users\sunshine dude\source\repos\shop\shop\obj\x86\Debug\Views\ShopPage.g.i.cs
+C:\Users\sunshine dude\source\repos\shop\shop\obj\x86\Debug\Views\ShopPage.g.cs
+C:\Users\sunshine dude\source\repos\shop\shop\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\sunshine dude\source\repos\shop\shop\obj\x86\Debug\App.xaml
+C:\Users\sunshine dude\source\repos\shop\shop\obj\x86\Debug\Views\MainPage.xaml
+C:\Users\sunshine dude\source\repos\shop\shop\obj\x86\Debug\Views\ShopPage.xaml
+C:\Users\sunshine dude\source\repos\shop\shop\obj\x86\Debug\App.xbf
+C:\Users\sunshine dude\source\repos\shop\shop\obj\x86\Debug\Views\MainPage.xbf
+C:\Users\sunshine dude\source\repos\shop\shop\obj\x86\Debug\Views\ShopPage.xbf
+C:\Users\sunshine dude\source\repos\shop\shop\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\sunshine dude\source\repos\shop\shop\bin\x86\Debug\App.xbf
+C:\Users\sunshine dude\source\repos\shop\shop\bin\x86\Debug\Views\MainPage.xbf
+C:\Users\sunshine dude\source\repos\shop\shop\bin\x86\Debug\Views\ShopPage.xbf
+C:\Users\sunshine dude\source\repos\shop\shop\bin\x86\Debug\shop.xr.xml
+C:\Users\sunshine dude\source\repos\shop\shop\bin\x86\Debug\shop.exe
+C:\Users\sunshine dude\source\repos\shop\shop\bin\x86\Debug\shop.pdb
+C:\Users\sunshine dude\source\repos\shop\shop\bin\x86\Debug\resources.pri
+C:\Users\sunshine dude\source\repos\shop\shop\bin\x86\Debug\AppxManifest.xml
+C:\Users\sunshine dude\source\repos\shop\shop\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\sunshine dude\source\repos\shop\shop\bin\x86\Debug\Core\shop.exe
+C:\Users\sunshine dude\source\repos\shop\shop\bin\x86\Debug\shop.build.appxrecipe
+C:\Users\sunshine dude\source\repos\shop\shop\bin\x86\Debug\System.Runtime.dll
+C:\Users\sunshine dude\source\repos\shop\shop\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\sunshine dude\source\repos\shop\shop\obj\x86\Debug\shop.csproj.CoreCompileInputs.cache
+C:\Users\sunshine dude\source\repos\shop\shop\obj\x86\Debug\shop.csproj.CopyComplete
+C:\Users\sunshine dude\source\repos\shop\shop\obj\x86\Debug\shop.exe
+C:\Users\sunshine dude\source\repos\shop\shop\obj\x86\Debug\shop.pdb
+C:\Users\sunshine dude\source\repos\shop\shop\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\sunshine dude\source\repos\shop\shop\obj\x86\Debug\priconfig.xml
+C:\Users\sunshine dude\source\repos\shop\shop\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\sunshine dude\source\repos\shop\shop\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\sunshine dude\source\repos\shop\shop\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\sunshine dude\source\repos\shop\shop\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\sunshine dude\source\repos\shop\shop\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\sunshine dude\source\repos\shop\shop\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\sunshine dude\source\repos\shop\shop\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\sunshine dude\source\repos\shop\shop\obj\x86\Debug\resources.resfiles
+C:\Users\sunshine dude\source\repos\shop\shop\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\sunshine dude\source\repos\shop\shop\obj\x86\Debug\pri.resfiles
+C:\Users\sunshine dude\source\repos\shop\shop\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\sunshine dude\source\repos\shop\shop\obj\x86\Debug\qualifiers.txt
+C:\Users\sunshine dude\source\repos\shop\shop\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\sunshine dude\source\repos\shop\shop\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\sunshine dude\source\repos\shop\shop\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\sunshine dude\source\repos\shop\shop\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885094160000000.json
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\shop.csproj.AssemblyReference.cache
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\App.g.i.cs
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\App.g.cs
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\ViewModels\StoreViewModel.g.i.cs
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\ViewModels\StoreViewModel.g.cs
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\Views\CartPage.g.i.cs
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\Views\CartPage.g.cs
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\Views\MainPage.g.i.cs
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\Views\MainPage.g.cs
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\Views\StorePage.g.i.cs
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\Views\StorePage.g.cs
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\App.xaml
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\ViewModels\StoreViewModel.xaml
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\Views\CartPage.xaml
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\Views\MainPage.xaml
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\Views\StorePage.xaml
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\App.xbf
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\ViewModels\StoreViewModel.xbf
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\Views\CartPage.xbf
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\Views\MainPage.xbf
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\Views\StorePage.xbf
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\001665\Desktop\shop\shop\bin\x86\Debug\App.xbf
+C:\Users\001665\Desktop\shop\shop\bin\x86\Debug\ViewModels\StoreViewModel.xbf
+C:\Users\001665\Desktop\shop\shop\bin\x86\Debug\Views\CartPage.xbf
+C:\Users\001665\Desktop\shop\shop\bin\x86\Debug\Views\MainPage.xbf
+C:\Users\001665\Desktop\shop\shop\bin\x86\Debug\Views\StorePage.xbf
+C:\Users\001665\Desktop\shop\shop\bin\x86\Debug\shop.xr.xml
+C:\Users\001665\Desktop\shop\shop\bin\x86\Debug\shop.exe
+C:\Users\001665\Desktop\shop\shop\bin\x86\Debug\shop.pdb
+C:\Users\001665\Desktop\shop\shop\bin\x86\Debug\resources.pri
+C:\Users\001665\Desktop\shop\shop\bin\x86\Debug\AppxManifest.xml
+C:\Users\001665\Desktop\shop\shop\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\001665\Desktop\shop\shop\bin\x86\Debug\Core\shop.exe
+C:\Users\001665\Desktop\shop\shop\bin\x86\Debug\shop.build.appxrecipe
+C:\Users\001665\Desktop\shop\shop\bin\x86\Debug\CommonServiceLocator.dll
+C:\Users\001665\Desktop\shop\shop\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\001665\Desktop\shop\shop\bin\x86\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\001665\Desktop\shop\shop\bin\x86\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\001665\Desktop\shop\shop\bin\x86\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\001665\Desktop\shop\shop\bin\x86\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\001665\Desktop\shop\shop\bin\x86\Debug\GalaSoft.MvvmLight.dll
+C:\Users\001665\Desktop\shop\shop\bin\x86\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\001665\Desktop\shop\shop\bin\x86\Debug\System.Runtime.dll
+C:\Users\001665\Desktop\shop\shop\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\001665\Desktop\shop\shop\bin\x86\Debug\System.Text.Encodings.Web.dll
+C:\Users\001665\Desktop\shop\shop\bin\x86\Debug\System.Text.Json.dll
+C:\Users\001665\Desktop\shop\shop\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\shop.csproj.CoreCompileInputs.cache
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\shop.csproj.Up2Date
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\GalaSoft.MvvmLight.Platform.pri.xml
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\shop.exe
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\shop.pdb
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\FxResources.System.Text.Encodings.Web.SR.resw
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\FxResources.System.Text.Json.SR.resw
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\priconfig.xml
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\resources.resfiles
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\pri.resfiles
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\qualifiers.txt
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\resources.en-us.resfiles
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\resources.en-us.resfiles.intermediate
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\001665\Desktop\shop\shop\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885094160000000.json

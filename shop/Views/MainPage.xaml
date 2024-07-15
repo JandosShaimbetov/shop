@@ -1,0 +1,28 @@
+﻿<Page
+    x:Class="shop.Views.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:shop"
+    xmlns:vm="using:shop.ViewModels">
+
+    <Page.DataContext>
+        <vm:StoreViewModel x:Name="ViewModel"/>
+    </Page.DataContext>
+
+
+    <NavigationView PaneDisplayMode="Left" IsBackButtonVisible="Collapsed" SelectionChanged="NavigationView_SelectionChanged" IsSettingsVisible="False">
+        <NavigationView.MenuItems>
+            <NavigationViewItem Content="Магазин" Tag="StorePage">
+                <NavigationViewItem.Icon>
+                    <BitmapIcon UriSource="ms-appx:///Assets/store_icon.png"/>
+                </NavigationViewItem.Icon>
+            </NavigationViewItem>
+            <NavigationViewItem Content="Корзина" Tag="CartPage">
+                <NavigationViewItem.Icon>
+                    <BitmapIcon UriSource="ms-appx:///Assets/cart_icon.png"/>
+                </NavigationViewItem.Icon>
+            </NavigationViewItem>
+        </NavigationView.MenuItems>
+        <Frame x:Name="ContentFrame"/>
+    </NavigationView>
+</Page>
